@@ -1,0 +1,7 @@
+umur=input("berapa umur anda?")
+if umur<20:
+    print "masih bocah lo!"
+    print "haha"
+else:
+    print "sudah cukup dewasa"
+print "done"
